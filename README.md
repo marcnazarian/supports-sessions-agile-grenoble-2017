@@ -6,7 +6,7 @@
 
 ## Keynote :
 
-[Transformations d'entreprise, êtes vous prêts pour le grand saut ?](https://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut-82824037) - Aurélien Morvant (@AurelienMorvant) 
+[Transformations d'entreprise, êtes vous prêts pour le grand saut ?](https://www.slideshare.net/AurlienMorvant/transformations-tes-vous-prts-pour-le-grand-saut-82824037) - Aurélien Morvant ([@AurelienMorvant](https://twitter.com/@AurelienMorvant)) 
 
 
 
