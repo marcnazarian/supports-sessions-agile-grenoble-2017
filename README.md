@@ -58,7 +58,7 @@
 ## Sessions :
 
 
-[Mon entreprise agile](https://t.co/6Zo7InJj6O) - Olivier Azeau ([@oaz](https://twitter.com/oaz))
+[Mon entreprise agile](https://github.com/Oaz/MonEntrepriseAgile/releases/tag/v1.0) - Olivier Azeau ([@oaz](https://twitter.com/oaz))
 
 
 [Être ou ne pas être agile, telle n'est pas la question pour l'Entreprise !](https://www.slideshare.net/fxMaq/etre-ou-ne-pas-etre-agile-la-nest-pas-la-question) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
