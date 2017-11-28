@@ -57,7 +57,7 @@
 
 ## Sessions :
 
-[Être ou ne pas être agile, telle n'est pas la question pour l'Entreprise !](https://schd.ws/hosted_files/agilegrenoble2017/8f/Etre%20ou%20ne%20pas%20e%CC%82tre%20agile%2C%20la%CC%80%20n%27est%20pas%20la%20question_V1.2.pdf) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
+[Être ou ne pas être agile, telle n'est pas la question pour l'Entreprise !](https://www.slideshare.net/fxMaq/etre-ou-ne-pas-etre-agile-la-nest-pas-la-question) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
 
 
 Yog'Agile - Karine LENOIR CAPELLE
@@ -112,7 +112,7 @@ Lego & Draw - Karine LENOIR CAPELLE
 [Docker / Maven / Cucumber : Le trio gagnant pour booster votre productivité](https://schd.ws/hosted_files/agilegrenoble2017/ba/AgileGrenoble2017-DockerMavenCucumber.pdf) - Nicolas Bobo et Illia Izotov
 
 
-[Kezako Kano ? un outil pour PO ...](https://schd.ws/hosted_files/agilegrenoble2017/3d/KanoV1.2.pdf) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
+[Kezako Kano ? un outil pour PO ...](https://www.slideshare.net/fxMaq/kano-un-outil-pour-product-owner) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
 
 
 [Les Startups d’état à Pole Emploi - REX](https://docs.google.com/presentation/d/1Ho9d5pNhHFxTWwdW5df7KLUTYLAp0x0lsFSGo2EiU-A) - Xavier Nopre ([@xnopre](https://twitter.com/xnopre))
