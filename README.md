@@ -42,7 +42,7 @@
 [Impact de l'auto-organisation sur la performance : quels leviers ?](https://schd.ws/hosted_files/agilegrenoble2017/49/AgileGrenoble-Auto-organisation-Performance.pdf) - Caroline Damour-Nobi (@CarolineDamour) et Julien Rayneau (@julienrayneau)
 
 
-[Refactoring : le code aussi doit être agile](https://docs.google.com/presentation/d/1L8Id3CD_BxROyqBN7DMQZg0EulWIiQh1CSRBBZfqE6A) - Clément Bouillier (@clem_bouillier
+[Refactoring : le code aussi doit être agile](https://docs.google.com/presentation/d/1L8Id3CD_BxROyqBN7DMQZg0EulWIiQh1CSRBBZfqE6A) - Clément Bouillier (@clem_bouillier)
 
 
 [Cargo cult agile](https://schd.ws/hosted_files/agilegrenoble2017/79/20171122%20-%20Cargo%20cult%20agile%20-%20Agile%20Grenoble.pdf) - Emilie Esposito (@EmilieEsposito)
