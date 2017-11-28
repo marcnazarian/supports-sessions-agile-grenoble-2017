@@ -12,17 +12,17 @@
 
 ## Sessions :
 
-[Scrum mon sérum](http://www.aubryconseil.com/blog/public/prez/ClaudeAubry-ScrumMonSe_rum-pdf.pdf) - Claude Aubry (@claudeaubry)
+[Scrum mon sérum](http://www.aubryconseil.com/blog/public/prez/ClaudeAubry-ScrumMonSe_rum-pdf.pdf) - Claude Aubry ([@claudeaubry](https://twitter.com/claudeaubry))
 
 
 [Agilité pour les nuls](https://schd.ws/hosted_files/agilegrenoble2017/a4/agilitepourlesnuls-2017.pdf) - Laurent Gay
 
 
-[L'art d'éliminer l'inutile](https://www.slideshare.net/alicebarralon9/ne-crez-pas-un-produit-inutile-concentrez-vous-sur-la-valeur) - Alice Barralon (@a_barralon)
+[L'art d'éliminer l'inutile](https://www.slideshare.net/alicebarralon9/ne-crez-pas-un-produit-inutile-concentrez-vous-sur-la-valeur) - Alice Barralon ([@a_barralon](https://twitter.com/a_barralon))
 
-[Et si notre communication était biaisée ?](https://fr.slideshare.net/cdeniaud33/agile-grenoble-2017-et-si-notre-communication-tait-biaise) - Christophe Deniaud (@ChrisDENIAUD)
+[Et si notre communication était biaisée ?](https://fr.slideshare.net/cdeniaud33/agile-grenoble-2017-et-si-notre-communication-tait-biaise) - Christophe Deniaud ([@ChrisDENIAUD](https://twitter.com/ChrisDENIAUD))
 
-[Développer l'agilité dans une équipe non-agile](https://schd.ws/hosted_files/agilegrenoble2017/fa/AG2017.pdf) - Pierrick Rassat (@Pierrick_Rassat)
+[Développer l'agilité dans une équipe non-agile](https://schd.ws/hosted_files/agilegrenoble2017/fa/AG2017.pdf) - Pierrick Rassat ([@Pierrick_Rassat](https://twitter.com/Pierrick_Rassat))
 
 
 [La mise en production : Comment être plus efficace ?](https://schd.ws/hosted_files/agilegrenoble2017/b8/La%20mise%20en%20production%2C%20comment%20%C3%AAtre%20plus%20efficace%20_%20%28agile%20grenoble%202017%29.pdf
@@ -30,22 +30,22 @@
 
 
 [Comment gérer son temps efficacement individuellement et en équipe ?](https://schd.ws/hosted_files/agilegrenoble2017/a1/Gestion%20du%20temps_polices%20%28Copie%20en%20conflit%20de%20DESKTOP-MSGLS04%202017-04-24%29.pdf
-) - Romain Couturier (@romaincouturier)
+) - Romain Couturier ([@romaincouturier](https://twitter.com/romaincouturier))
 
 
 [Des standups efficaces, pas si simple ...](https://schd.ws/hosted_files/agilegrenoble2017/15/Viveris-Standup-efficaces-pas-si-simple.pdf) - Adrien Chantome et Nicolas Thibert
 
 
-[TDD : Pour que votre code soit testable et testé !](https://docs.google.com/presentation/d/1iEzpBjD4HvpBHhcYy1Z3LyEQuzwe6bPBoRXb-6BuK0A) - Xavier Nopre (@xnopre)
+[TDD : Pour que votre code soit testable et testé !](https://docs.google.com/presentation/d/1iEzpBjD4HvpBHhcYy1Z3LyEQuzwe6bPBoRXb-6BuK0A) - Xavier Nopre ([@xnopre](https://twitter.com/xnopre))
 
 
-[Impact de l'auto-organisation sur la performance : quels leviers ?](https://schd.ws/hosted_files/agilegrenoble2017/49/AgileGrenoble-Auto-organisation-Performance.pdf) - Caroline Damour-Nobi (@CarolineDamour) et Julien Rayneau (@julienrayneau)
+[Impact de l'auto-organisation sur la performance : quels leviers ?](https://schd.ws/hosted_files/agilegrenoble2017/49/AgileGrenoble-Auto-organisation-Performance.pdf) - Caroline Damour-Nobi ([@CarolineDamour](https://twitter.com/CarolineDamour)) et Julien Rayneau ([@julienrayneau](https://twitter.com/julienrayneau))
 
 
-[Refactoring : le code aussi doit être agile](https://docs.google.com/presentation/d/1L8Id3CD_BxROyqBN7DMQZg0EulWIiQh1CSRBBZfqE6A) - Clément Bouillier (@clem_bouillier)
+[Refactoring : le code aussi doit être agile](https://docs.google.com/presentation/d/1L8Id3CD_BxROyqBN7DMQZg0EulWIiQh1CSRBBZfqE6A) - Clément Bouillier ([@clem_bouillier](https://twitter.com/clem_bouillier))
 
 
-[Cargo cult agile](https://schd.ws/hosted_files/agilegrenoble2017/79/20171122%20-%20Cargo%20cult%20agile%20-%20Agile%20Grenoble.pdf) - Emilie Esposito (@EmilieEsposito)
+[Cargo cult agile](https://schd.ws/hosted_files/agilegrenoble2017/79/20171122%20-%20Cargo%20cult%20agile%20-%20Agile%20Grenoble.pdf) - Emilie Esposito ([@EmilieEsposito](https://twitter.com/EmilieEsposito))
 
 
 
@@ -57,7 +57,7 @@
 
 ## Sessions :
 
-[Être ou ne pas être agile, telle n'est pas la question pour l'Entreprise !](https://schd.ws/hosted_files/agilegrenoble2017/8f/Etre%20ou%20ne%20pas%20e%CC%82tre%20agile%2C%20la%CC%80%20n%27est%20pas%20la%20question_V1.2.pdf) - François-Xavier Maquaire (@fxmaquaire)
+[Être ou ne pas être agile, telle n'est pas la question pour l'Entreprise !](https://schd.ws/hosted_files/agilegrenoble2017/8f/Etre%20ou%20ne%20pas%20e%CC%82tre%20agile%2C%20la%CC%80%20n%27est%20pas%20la%20question_V1.2.pdf) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
 
 
 Yog'Agile - Karine LENOIR CAPELLE
@@ -67,10 +67,10 @@ Yog'Agile - Karine LENOIR CAPELLE
 * https://schd.ws/hosted_files/agilegrenoble2017/10/IMG_3283.JPG
 
 
-[De SAFe à Scrum : nos secrets de beauté pour maigrir efficacement](https://schd.ws/hosted_files/agilegrenoble2017/23/REX%20LIbon%20-%20Safe%20%C3%A0%20Scrum%20-%20Product%20edition.pdf) - Pierre-Antoine Antonini (@emporiatech) et Arnaud Villenave
+[De SAFe à Scrum : nos secrets de beauté pour maigrir efficacement](https://schd.ws/hosted_files/agilegrenoble2017/23/REX%20LIbon%20-%20Safe%20%C3%A0%20Scrum%20-%20Product%20edition.pdf) - Pierre-Antoine Antonini ([@emporiatech](https://twitter.com/emporiatech)) et Arnaud Villenave
 
 
-[Bug free, by design](http://www.changit.fr/bug-free-by-design/) - Johan Martinsson (@johan_alps)
+[Bug free, by design](http://www.changit.fr/bug-free-by-design/) - Johan Martinsson ([@johan_alps](https://twitter.com/johan_alps))
 
 
 
@@ -79,7 +79,7 @@ Yog'Agile - Karine LENOIR CAPELLE
 
 ## Keynote :
 
-Etre Agile - Pablo Pernot (@pablopernot)
+Etre Agile - Pablo Pernot ([@pablopernot](https://twitter.com/pablopernot))
 
 ![Etre Agile](https://schd.ws/hosted_files/agilegrenoble2017/b6/DPZhyjIWAAAcLCq.jpg%20large.jpg)
 
@@ -87,10 +87,10 @@ Etre Agile - Pablo Pernot (@pablopernot)
 ## Sessions :
 
 
-[Cargo cult agile](https://schd.ws/hosted_files/agilegrenoble2017/79/20171122%20-%20Cargo%20cult%20agile%20-%20Agile%20Grenoble.pdf) - Emilie Esposito (@EmilieEsposito)
+[Cargo cult agile](https://schd.ws/hosted_files/agilegrenoble2017/79/20171122%20-%20Cargo%20cult%20agile%20-%20Agile%20Grenoble.pdf) - Emilie Esposito ([@EmilieEsposito](https://twitter.com/EmilieEsposito))
 
 
-[Si t'es toujours pas développeur à 40 ans ... il n'est pas trop tard !](https://fr.slideshare.net/ericsiber/si-tes-toujours-pas-dveloppeur-40-ans-il-nest-pas-trop-tard-agile-grenoble-2017) - Nicolas Moan, Claude Pecheux et Eric Siber (@esiber)
+[Si t'es toujours pas développeur à 40 ans ... il n'est pas trop tard !](https://fr.slideshare.net/ericsiber/si-tes-toujours-pas-dveloppeur-40-ans-il-nest-pas-trop-tard-agile-grenoble-2017) - Nicolas Moan, Claude Pecheux et Eric Siber ([@esiber](https://twitter.com/esiber))
 
 
 Lego & Draw - Karine LENOIR CAPELLE
@@ -103,28 +103,28 @@ Lego & Draw - Karine LENOIR CAPELLE
 * https://schd.ws/hosted_files/agilegrenoble2017/ba/IMG_3305.JPG
 
 
-[Intervision : l'art d'apprendre entre pairs](https://www.slideshare.net/Brau7982/intervision-lart-dapprendre-entre-pairs) - Thierry Conter (@thierryconter)
+[Intervision : l'art d'apprendre entre pairs](https://www.slideshare.net/Brau7982/intervision-lart-dapprendre-entre-pairs) - Thierry Conter ([@thierryconter](https://twitter.com/thierryconter))
 
 
-[Protocoles de prise de décision](https://www.slideshare.net/ddreptate/protocoles-de-decision-agile-grenoble) - Olivier Albiez (@OlivierAlbiez) et Dragos Dreptate (@ddreptate) 
+[Protocoles de prise de décision](https://www.slideshare.net/ddreptate/protocoles-de-decision-agile-grenoble) - Olivier Albiez ([@livierAlbiez](https://twitter.com/livierAlbiez)) et Dragos Dreptate ([@ddreptate](https://twitter.com/ddreptate)) 
 
 
 [Docker / Maven / Cucumber : Le trio gagnant pour booster votre productivité](https://schd.ws/hosted_files/agilegrenoble2017/ba/AgileGrenoble2017-DockerMavenCucumber.pdf) - Nicolas Bobo et Illia Izotov
 
 
-[Kezako Kano ? un outil pour PO ...](https://schd.ws/hosted_files/agilegrenoble2017/3d/KanoV1.2.pdf) - François-Xavier Maquaire (@fxmaquaire)
+[Kezako Kano ? un outil pour PO ...](https://schd.ws/hosted_files/agilegrenoble2017/3d/KanoV1.2.pdf) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
 
 
-[Les Startups d’état à Pole Emploi - REX](https://docs.google.com/presentation/d/1Ho9d5pNhHFxTWwdW5df7KLUTYLAp0x0lsFSGo2EiU-A) - Xavier Nopre (@xnopre)
+[Les Startups d’état à Pole Emploi - REX](https://docs.google.com/presentation/d/1Ho9d5pNhHFxTWwdW5df7KLUTYLAp0x0lsFSGo2EiU-A) - Xavier Nopre ([@xnopre](https://twitter.com/xnopre))
 
 
-[Kanban as Code](https://www.slideshare.net/beastiefurets/kanban-as-code-agile-france-2017) - Dimitri Baeli (@dbaeli)
+[Kanban as Code](https://www.slideshare.net/beastiefurets/kanban-as-code-agile-france-2017) - Dimitri Baeli ([@dbaeli](https://twitter.com/dbaeli))
 
 
 [Le succès de la démarche DevOps ne repose pas que sur les outils
 ](https://schd.ws/hosted_files/agilegrenoble2017/11/Transformation%20DevOps%20Hardis%20Agile%20Grenoble%20MO%20CS%2023112017.pdf) - Maxime Orand
 
 
-[Parce-qu'on ne change pas une culture comme on change une roue de voiture](https://schd.ws/hosted_files/agilegrenoble2017/be/Agile%20Grenoble%20-%20On%20ne%20change%20pas%20une%20culture%20VF.pdf) - François Salazar (@FrancoisSALAZAR)
+[Parce-qu'on ne change pas une culture comme on change une roue de voiture](https://schd.ws/hosted_files/agilegrenoble2017/be/Agile%20Grenoble%20-%20On%20ne%20change%20pas%20une%20culture%20VF.pdf) - François Salazar ([@FrancoisSALAZAR](https://twitter.com/FrancoisSALAZAR))
 
 
