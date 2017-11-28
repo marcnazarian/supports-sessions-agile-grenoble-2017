@@ -125,6 +125,9 @@ Lego & Draw - Karine LENOIR CAPELLE
 ](https://schd.ws/hosted_files/agilegrenoble2017/11/Transformation%20DevOps%20Hardis%20Agile%20Grenoble%20MO%20CS%2023112017.pdf) - Maxime Orand
 
 
+[La zemblanité ou comment rater avec détermination](http://ajiro.fr/talks/zemblanite/2017AgileGrenoble.pdf) - Olivier Albiez ([@OlivierAlbiez](https://twitter.com/OlivierAlbiez))
+
+
 [Parce-qu'on ne change pas une culture comme on change une roue de voiture](https://schd.ws/hosted_files/agilegrenoble2017/be/Agile%20Grenoble%20-%20On%20ne%20change%20pas%20une%20culture%20VF.pdf) - François Salazar ([@FrancoisSALAZAR](https://twitter.com/FrancoisSALAZAR))
 
 
