@@ -1,4 +1,4 @@
-# Supports et slides des sessions présentées à la conférence agile Agile Grenoble 2017 
+# Supports et slides des sessions présentées à la conférence Agile Grenoble 2017 
 ![Logo Agile Grenoble](http://agile-grenoble.org/images/logo_ag_white_64.png)
 
 
