@@ -60,6 +60,9 @@
 [Être ou ne pas être agile, telle n'est pas la question pour l'Entreprise !](https://www.slideshare.net/fxMaq/etre-ou-ne-pas-etre-agile-la-nest-pas-la-question) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
 
 
+[Faire accoucher avec douceur mais détermination](https://www.slideshare.net/pierre_fauvel/ag17-faire-accoucher-avec-douceur-et-determinationtakeout06) - Pierre Fauvel ([@pierre_fauvel](https://twitter.com/pierre_fauvel))
+
+
 Yog'Agile - Karine LENOIR CAPELLE
 * https://schd.ws/hosted_files/agilegrenoble2017/9a/IMG_3286.jpg
 * https://schd.ws/hosted_files/agilegrenoble2017/67/IMG_3284.jpg
