@@ -48,6 +48,8 @@
 [Cargo cult agile](https://schd.ws/hosted_files/agilegrenoble2017/79/20171122%20-%20Cargo%20cult%20agile%20-%20Agile%20Grenoble.pdf) - Emilie Esposito ([@EmilieEsposito](https://twitter.com/EmilieEsposito))
 
 
+[Créer de la confiance, 10 ans de transformation agile](https://www.slideshare.net/NicolasRuffel/crer-de-la-confiance-10-ans-de-transformation-agile) - Nicolas Ruffel ([@NicoRuffel](https://twitter.com/NicoRuffel))
+
 
 
 
