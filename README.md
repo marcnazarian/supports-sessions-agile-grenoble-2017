@@ -40,6 +40,9 @@
 ) - Romain Couturier ([@romaincouturier](https://twitter.com/romaincouturier))
 
 
+[Mon Dieu ! Je n'ai pas envie d'être là !](https://schd.ws/hosted_files/agilegrenoble2017/4d/jerome-bourgeon-pres.zip) -  Jérôme Bourgeon ([@j_bourgeon](https://twitter.com/j_bourgeon))
+
+
 [Des standups efficaces, pas si simple ...](https://schd.ws/hosted_files/agilegrenoble2017/15/Viveris-Standup-efficaces-pas-si-simple.pdf) - Adrien Chantome et Nicolas Thibert
 
 
