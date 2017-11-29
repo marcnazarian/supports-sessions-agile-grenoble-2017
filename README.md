@@ -159,3 +159,5 @@ Lego & Draw - Karine LENOIR CAPELLE
 [Parce-qu'on ne change pas une culture comme on change une roue de voiture](https://schd.ws/hosted_files/agilegrenoble2017/be/Agile%20Grenoble%20-%20On%20ne%20change%20pas%20une%20culture%20VF.pdf) - François Salazar ([@FrancoisSALAZAR](https://twitter.com/FrancoisSALAZAR))
 
 
+[Obtenir des feedbacks de tous vos personas plus rapidement en s’appuyant sur Docker](https://laurentleseigneur.github.io/agile-grenoble-2017/) - Emmanuel Duchastenier et Laurent Leseigneur ([@LLeseigneur](https://twitter.com/LLeseigneur))
+
