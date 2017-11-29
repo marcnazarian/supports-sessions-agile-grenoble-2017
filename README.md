@@ -76,6 +76,9 @@ Yog'Agile - Karine LENOIR CAPELLE
 * https://schd.ws/hosted_files/agilegrenoble2017/10/IMG_3283.JPG
 
 
+[Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui]() -  Maxime Bonnet ([@maximebonnet](https://twitter.com/maximebonnet))
+
+
 [De SAFe à Scrum : nos secrets de beauté pour maigrir efficacement](https://schd.ws/hosted_files/agilegrenoble2017/23/REX%20LIbon%20-%20Safe%20%C3%A0%20Scrum%20-%20Product%20edition.pdf) - Pierre-Antoine Antonini ([@emporiatech](https://twitter.com/emporiatech)) et Arnaud Villenave
 
 
