@@ -70,6 +70,9 @@
 ## Sessions :
 
 
+[Sensibilisation au Software Craftsmanship](https://schd.ws/hosted_files/agilegrenoble2017/ce/sensibilisation-au-software-craftsmanship-18-ilovepdf-compressed.pdf) - Nastasia Saby ([@saby_nastasia](https://twitter.com/saby_nastasia))
+
+
 [Mon entreprise agile](https://github.com/Oaz/MonEntrepriseAgile/releases/tag/v1.0) - Olivier Azeau ([@oaz](https://twitter.com/oaz))
 
 
