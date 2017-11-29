@@ -21,6 +21,9 @@
 [L'art d'éliminer l'inutile](https://www.slideshare.net/alicebarralon9/ne-crez-pas-un-produit-inutile-concentrez-vous-sur-la-valeur) - Alice Barralon ([@a_barralon](https://twitter.com/a_barralon))
 
 
+[Les objets calisthenics pour améliorer notre utilisation de la Programmation Orientée Objet](https://schd.ws/hosted_files/agilegrenoble2017/97/deck-10.pdf) - Nastasia Saby ([@saby_nastasia](https://twitter.com/saby_nastasia))
+
+
 [L'art de la plannification et de la mêlée](https://schd.ws/hosted_files/agilegrenoble2017/1b/2017%20-%20Art%20de%20la%20Planification%20et%20de%20la%20m%C3%A9l%C3%A9e.pdf) - Alexandre Boutin ([@agilex](https://twitter.com/agilex))
 
 
