@@ -20,6 +20,10 @@
 
 [L'art d'éliminer l'inutile](https://www.slideshare.net/alicebarralon9/ne-crez-pas-un-produit-inutile-concentrez-vous-sur-la-valeur) - Alice Barralon ([@a_barralon](https://twitter.com/a_barralon))
 
+
+[L'art de la plannification et de la mêlée](https://schd.ws/hosted_files/agilegrenoble2017/1b/2017%20-%20Art%20de%20la%20Planification%20et%20de%20la%20m%C3%A9l%C3%A9e.pdf) - Alexandre Boutin ([@agilex](https://twitter.com/agilex))
+
+
 [Et si notre communication était biaisée ?](https://fr.slideshare.net/cdeniaud33/agile-grenoble-2017-et-si-notre-communication-tait-biaise) - Christophe Deniaud ([@ChrisDENIAUD](https://twitter.com/ChrisDENIAUD))
 
 [Développer l'agilité dans une équipe non-agile](https://schd.ws/hosted_files/agilegrenoble2017/fa/AG2017.pdf) - Pierrick Rassat ([@Pierrick_Rassat](https://twitter.com/Pierrick_Rassat))
@@ -67,6 +71,9 @@
 
 
 [Faire accoucher avec douceur mais détermination](https://www.slideshare.net/pierre_fauvel/ag17-faire-accoucher-avec-douceur-et-determinationtakeout06) - Pierre Fauvel ([@pierre_fauvel](https://twitter.com/pierre_fauvel))
+
+
+[Utilisation de jeux ou ateliers Ludinnovants en management de projet](https://schd.ws/hosted_files/agilegrenoble2017/3d/2017%20-%20Ateliers%20Ludinnovants%20-%20Grenoble.pdf) - Alexandre Boutin ([@agilex](https://twitter.com/agilex))
 
 
 Yog'Agile - Karine LENOIR CAPELLE
