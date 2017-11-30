@@ -159,6 +159,9 @@ Lego & Draw - Karine LENOIR CAPELLE
 [XP Lego Game](http://www.gargoylesoftware.com/ex) -  Grégory Alexandre [@gregalexandre](https://twitter.com/gregalexandre))
 
 
+[Agilité et édition logicielle? Pas si simple!](https://www.slideshare.net/manuelvacelet/agilit-et-dition-logicielle-pas-si-simple) -  Manuel Vacelet ([@vaceletm](https://twitter.com/vaceletm))
+
+
 [La zemblanité ou comment rater avec détermination](http://ajiro.fr/talks/zemblanite/2017AgileGrenoble.pdf) - Olivier Albiez ([@OlivierAlbiez](https://twitter.com/OlivierAlbiez))
 
 
