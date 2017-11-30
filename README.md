@@ -153,6 +153,9 @@ Lego & Draw - Karine LENOIR CAPELLE
 ](https://schd.ws/hosted_files/agilegrenoble2017/11/Transformation%20DevOps%20Hardis%20Agile%20Grenoble%20MO%20CS%2023112017.pdf) - Maxime Orand
 
 
+[XP Lego Game](http://www.gargoylesoftware.com/ex) -  Grégory Alexandre [@gregalexandre](https://twitter.com/gregalexandre))
+
+
 [La zemblanité ou comment rater avec détermination](http://ajiro.fr/talks/zemblanite/2017AgileGrenoble.pdf) - Olivier Albiez ([@OlivierAlbiez](https://twitter.com/OlivierAlbiez))
 
 
