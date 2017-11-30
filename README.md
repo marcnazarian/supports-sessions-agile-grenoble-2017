@@ -49,6 +49,9 @@
 [TDD : Pour que votre code soit testable et testé !](https://docs.google.com/presentation/d/1iEzpBjD4HvpBHhcYy1Z3LyEQuzwe6bPBoRXb-6BuK0A) - Xavier Nopre ([@xnopre](https://twitter.com/xnopre))
 
 
+[Coach Corner, ou comment créer du liant dans des contextes d'équipes distribuées](https://www.slideshare.net/AlexandreThibault2/coach-corner-ou-comment-crer-du-liant-dans-des-contextes-dquipes-distribues) - Alexandre Thibault ([@AlexandreThib](https://twitter.com/AlexandreThib))
+
+
 [Impact de l'auto-organisation sur la performance : quels leviers ?](https://schd.ws/hosted_files/agilegrenoble2017/49/AgileGrenoble-Auto-organisation-Performance.pdf) - Caroline Damour-Nobi ([@CarolineDamour](https://twitter.com/CarolineDamour)) et Julien Rayneau ([@julienrayneau](https://twitter.com/julienrayneau))
 
 
