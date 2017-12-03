@@ -143,6 +143,9 @@ Lego & Draw - Karine LENOIR CAPELLE
 [Docker / Maven / Cucumber : Le trio gagnant pour booster votre productivité](https://schd.ws/hosted_files/agilegrenoble2017/ba/AgileGrenoble2017-DockerMavenCucumber.pdf) - Nicolas Bobo et Illia Izotov
 
 
+[Le fabuleux destin de Tim Member (vidéo)](https://www.youtube.com/watch?v=BY8mHeIRDok) - Franck Rageade ([@thelor](https://twitter.com/thelor))
+
+
 [Kezako Kano ? un outil pour PO ...](https://www.slideshare.net/fxMaq/kano-un-outil-pour-product-owner) - François-Xavier Maquaire ([@fxmaquaire](https://twitter.com/fxmaquaire))
 
 
