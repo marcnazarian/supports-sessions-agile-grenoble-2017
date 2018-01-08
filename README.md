@@ -173,3 +173,5 @@ Lego & Draw - Karine LENOIR CAPELLE
 
 [Obtenir des feedbacks de tous vos personas plus rapidement en s’appuyant sur Docker](https://laurentleseigneur.github.io/agile-grenoble-2017/) - Emmanuel Duchastenier et Laurent Leseigneur ([@LLeseigneur](https://twitter.com/LLeseigneur))
 
+[Apprendre la technique su story mapping par la pratique](https://idetido.files.wordpress.com/2017/11/atelier-agile_story_mapping_v2-2.pdf) - Irène Doan ([@idetido](https://twitter.com/idetido))
+
