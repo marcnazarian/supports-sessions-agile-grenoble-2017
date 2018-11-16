@@ -1,5 +1,5 @@
 # Supports et slides des sessions présentées à la conférence Agile Grenoble 2017 
-![Logo Agile Grenoble](http://agile-grenoble.org/images/logo_ag_white_64.png)
+![Logo Agile Grenoble](http://agile-grenoble.org/wp-content/uploads/2018/04/logo_ag_white_text_24.png)
 
 
 ## Journée du mercredi 22 novembre 2017
